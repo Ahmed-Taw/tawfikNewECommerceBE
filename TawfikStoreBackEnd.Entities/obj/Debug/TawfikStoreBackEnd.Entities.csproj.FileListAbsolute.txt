@@ -1,0 +1,6 @@
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\obj\Debug\TawfikStoreBackEnd.Entities.csprojAssemblyReference.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\obj\Debug\TawfikStoreBackEnd.Entities.csproj.CoreCompileInputs.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\bin\Debug\TawfikStoreBackEnd.Entities.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\bin\Debug\TawfikStoreBackEnd.Entities.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\obj\Debug\TawfikStoreBackEnd.Entities.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.Entities\obj\Debug\TawfikStoreBackEnd.Entities.pdb

@@ -1,0 +1,11 @@
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\obj\Debug\TawfikStoreBackEnd.DAL.Mongo.csprojAssemblyReference.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\obj\Debug\TawfikStoreBackEnd.DAL.Mongo.csproj.CoreCompileInputs.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.DAL.Mongo.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.DAL.Mongo.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.DAL.Infra.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.Entities.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.DAL.Infra.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\bin\Debug\TawfikStoreBackEnd.Entities.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\obj\Debug\TawfikStoreBackEnd.DAL.Mongo.csproj.CopyComplete
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\obj\Debug\TawfikStoreBackEnd.DAL.Mongo.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Mongo\obj\Debug\TawfikStoreBackEnd.DAL.Mongo.pdb

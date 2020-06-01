@@ -1,0 +1,9 @@
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\obj\Debug\TawfikStoreBackEnd.DAL.Infra.csproj.CoreCompileInputs.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\bin\Debug\TawfikStoreBackEnd.DAL.Infra.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\bin\Debug\TawfikStoreBackEnd.DAL.Infra.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\bin\Debug\TawfikStoreBackEnd.Entities.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\bin\Debug\TawfikStoreBackEnd.Entities.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\obj\Debug\TawfikStoreBackEnd.DAL.Infra.csprojAssemblyReference.cache
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\obj\Debug\TawfikStoreBackEnd.DAL.Infra.csproj.CopyComplete
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\obj\Debug\TawfikStoreBackEnd.DAL.Infra.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.Infra\obj\Debug\TawfikStoreBackEnd.DAL.Infra.pdb
