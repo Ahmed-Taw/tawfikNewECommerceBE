@@ -92,3 +92,5 @@ D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\bin\Microsoft.CodeDom.Providers.Do
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\obj\Debug\TawfikStoreBackEnd.csproj.CopyComplete
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\obj\Debug\TawfikStoreBackEnd.dll
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\obj\Debug\TawfikStoreBackEnd.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\bin\Swashbuckle.Core.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd\bin\WebActivatorEx.dll
