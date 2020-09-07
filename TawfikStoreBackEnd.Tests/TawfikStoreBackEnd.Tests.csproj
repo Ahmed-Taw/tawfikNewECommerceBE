@@ -109,6 +109,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TawfikStoreBackEnd.Entities\TawfikStoreBackEnd.Entities.csproj">
+      <Project>{2447f162-2f65-4a0a-9e42-9c02a6d08133}</Project>
+      <Name>TawfikStoreBackEnd.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TawfikStoreBackEnd\TawfikStoreBackEnd.csproj">
       <Project>{62573413-2E97-4BE8-8CFB-68D46C3A023A}</Project>
       <Name>TawfikStoreBackEnd</Name>

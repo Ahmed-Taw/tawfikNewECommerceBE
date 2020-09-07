@@ -29,6 +29,22 @@ namespace TawfikStoreBackEnd.Tests.Controllers
             Assert.AreEqual("value2", result.ElementAt(1));
         }
 
+
+        [TestMethod]
+        public async void GetOdrders()
+        {
+            // Arrange
+            OrderController controller = new OrderController();
+
+            // Act
+            IList<Entities.Entities.Order> result = await controller.Get("",20);
+
+            // Assert
+            Assert.IsNotNull(result);
+            Assert.AreEqual(2, result.Count());
+            Assert.AreEqual("value1", result.ElementAt(0));
+            Assert.AreEqual("value2", result.ElementAt(1));
+        }
         [TestMethod]
         public void GetById()
         {

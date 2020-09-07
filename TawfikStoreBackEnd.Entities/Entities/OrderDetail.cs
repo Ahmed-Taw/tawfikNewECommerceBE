@@ -10,6 +10,8 @@ namespace TawfikStoreBackEnd.Entities.Entities
 {
     public class OrderDetail
     {
+
+        public int _id { get; set; }
         [Key]
         [Column(Order = 1)]
         public int orderId { get; set; }

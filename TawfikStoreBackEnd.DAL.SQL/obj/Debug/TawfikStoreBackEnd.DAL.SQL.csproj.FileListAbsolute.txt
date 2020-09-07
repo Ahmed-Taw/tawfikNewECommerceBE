@@ -9,3 +9,10 @@ D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackE
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackEnd.DAL.SQL.csproj.CopyComplete
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackEnd.DAL.SQL.dll
 D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackEnd.DAL.SQL.pdb
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\bin\Debug\TawfikStoreBackEnd.DAL.SQL.dll.config
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\bin\Debug\EntityFramework.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\bin\Debug\EntityFramework.xml
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackEnd.DAL.SQL.Migrations.createDB.resources
+D:\Work\TawfikStoreBackEnd\TawfikStoreBackEnd.DAL.SQL\obj\Debug\TawfikStoreBackEnd.DAL.SQL.csproj.GenerateResource.cache

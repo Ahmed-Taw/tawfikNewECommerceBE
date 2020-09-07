@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,9 +12,12 @@ namespace TawfikStoreBackEnd.Entities.Entities
     {
         public Order()
         {
-            details = new Collection<OrderDetail>();
+           // details = new Collection<OrderDetail>();
         }
-        public int id { get; set; }
+
+        [Key]
+        public int _id { get; set; }
+        //public int id { get; set; }
 
         public string name { get; set; }
 
@@ -27,8 +31,8 @@ namespace TawfikStoreBackEnd.Entities.Entities
 
         public bool isDeliverd { get; set; }
 
-        public ICollection<OrderDetail> details { get; set; }
+        //public ICollection<OrderDetail> details { get; set; }
 
-        public decimal totalAmount { get; set; }
+        public double totalAmount { get; set; }
     }
 }
